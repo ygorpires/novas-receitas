@@ -3,4 +3,4 @@ Este livro de receitas tem como objetivo praticar os conhecimentos obtidos nas a
 
 ## Lista de Receitas
 
- - [Strogonoff de frango]()
+ - [Strogonoff de frango](https://github.com/ygorpires/novas-receitas/blob/master/receitas/strogonoff.md)
